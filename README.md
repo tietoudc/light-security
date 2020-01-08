@@ -6,8 +6,7 @@ Light Security是一款基于 `jwt` 的、简洁而不简单的权限控制框�
 
 ## 地址
 
-* [GitHub](https://github.com/eacdy/light-security)
-* [Gitee](https://gitee.com/itmuch/light-security)
+* [GitHub](https://github.com/tietoudc/light-security)
 
 
 
